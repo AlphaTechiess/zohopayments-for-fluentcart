@@ -3,7 +3,7 @@
 [![WordPress](https://img.shields.io/badge/WordPress-5.6%2B-blue.svg)](https://wordpress.org)
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-8892BF.svg)](https://php.net)
 [![FluentCart](https://img.shields.io/badge/FluentCart-Compatible-green.svg)](https://fluentcart.com)
-[![License: GPL v2+](https://img.shields.io/badge/License-GPL%20v2%2B-orange.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![License: GPL v3+](https://img.shields.io/badge/License-GPL%20v3%2B-orange.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Release](https://img.shields.io/badge/version-1.1.5-brightgreen.svg)](https://github.com/fluentcart/zoho-payments/releases)
 
 Accept secure payments across India with **Zoho Payments** directly inside **FluentCart**. Featuring modern embedded checkout, instant UPI (Google Pay, PhonePe, Paytm, BHIM), Credit/Debit Cards, Net Banking, Wallets, automated refunds, and real-time webhook order synchronization.
@@ -120,4 +120,4 @@ Yes. Open any completed order transaction in FluentCart, click **Refund**, speci
 
 ## 📄 License
 
-This plugin is licensed under the [GNU General Public License v2.0 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+This plugin is licensed under the [GNU General Public License v3.0 or later](https://www.gnu.org/licenses/gpl-3.0.html).
